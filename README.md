@@ -1,4 +1,4 @@
-# generate-qrcode![Screenshot 2023-04-10 000309](https://user-images.githubusercontent.com/31295561/230800512-f67c5cf7-fb25-49c0-bbcd-a3de36f6469c.png)
+[Screenshot 2023-04-10 000309](https://user-images.githubusercontent.com/31295561/230800512-f67c5cf7-fb25-49c0-bbcd-a3de36f6469c.png)
 
 # QR Code Generator
 
