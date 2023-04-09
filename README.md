@@ -10,7 +10,8 @@ Users should be able to:
 
 - Enter url
 - Select their preferred size
-- Downlaod as image or visit the website when scanned directly
+- Generate QR Code
+- Download as image or visit website when scanned directly
 
 ***
 
